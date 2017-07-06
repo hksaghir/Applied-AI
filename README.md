@@ -1,2 +1,2 @@
 # Applied-AI
-iXperience Applied AI class
+Experimenting with Keras and spaCY
